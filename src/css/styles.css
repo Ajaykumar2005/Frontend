@@ -38,7 +38,7 @@
 }
 .upper{
 	display: flex;
-	    margin-left: 1rem;
+	    margin-left: 14rem;
     align-items: center;
 }
 .dropdown-menu.show {
@@ -69,6 +69,7 @@
     align-content: space-around;
         padding: 1rem;
     background-color: #bfe4e9;
+    margin-top: -3rem;
 }
 .box_upload{
 	width: fit-content;
@@ -78,7 +79,7 @@
     margin-top: 2rem;
 }
 .text_upload{
-	width: fit-content;
+	width: 26rem;
     height: fit-content;
     padding: 5.2rem;
     margin-right: 2rem;
@@ -103,7 +104,7 @@
 .outer_1{
 	display: flex;
     position: absolute;
-    margin-top: 16rem;
+    margin-top: 13.5rem;
     padding: 1rem;
 }
 }
