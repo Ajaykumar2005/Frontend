@@ -3,6 +3,10 @@
 
 
 }
+img, svg {
+    vertical-align: middle;
+    border-radius: 2rem;
+}
 .logo{
 	border-radius: 0.5rem;
 	margin: auto;
@@ -137,14 +141,13 @@ li{
 
 }
 .graph_1{
-	padding: 1rem;
+	
     background-color: white;
     border-radius: 2rem;
 }
 
 .graph_2{
-	padding: 1rem;
-    background-color: white;
+	background-color: white;
     border-radius: 2rem;
 }
 
